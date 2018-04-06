@@ -5,10 +5,10 @@ from pymongo import MongoClient
 import time
 # Enter your keys/secrets as strings in the following fields
 credentials = {}
-credentials['CONSUMER_KEY'] = "d924MWflBXQxUkQZwnyGsssfZ"
-credentials['CONSUMER_SECRET'] = "uWjAQLhPNPIjHx3r6lPN2AayNhrslATYvaREYtKdDc3dWNMEoz"
-credentials['ACCESS_TOKEN'] = "4854736844-9gcsw1vZjauum9k87QJwF2njnR6GKWHQGSsf4fd"
-credentials['ACCESS_SECRET'] = "V02gmrgOJ7aNAko4s4KlNG2HYdkxBIGTwKjGCPfvbwU5E"
+credentials['CONSUMER_KEY'] = "xxxxxxxxxxxxxxxxxxxxxxxxx"
+credentials['CONSUMER_SECRET'] = "xxxxxxxxxxxxxxxxxxxxxxxxx"
+credentials['ACCESS_TOKEN'] = "xxxxxxxxxxxxxxxxxxxxxxxxx"
+credentials['ACCESS_SECRET'] = "xxxxxxxxxxxxxxxxxxxxxxxxx"
 
 # Save the credentials object to file
 with open("twitter_credentials.json", "w") as file:
