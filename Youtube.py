@@ -9,7 +9,7 @@ db = client.Youtube
 youtubes = db.you_videos
 
 def youtube():
-    DEVELOPER_KEY = "AIzaSyDM6QmCSRdJzQnm_61qLtkG_7AOw7PDwnc"
+    DEVELOPER_KEY = "xxxxxxxxx"
     YOUTUBE_API_SERVICE_NAME = "youtube"
     YOUTUBE_API_VERSION = "v3"
     if __name__ == "__main__":
